@@ -1,0 +1,9 @@
+.container{
+background: linear-gradient(to right, #48b1bf, #06beb6); 
+padding: 5px;
+
+}
+
+.cmsTitle{
+    font-size: 2rem;
+}
